@@ -1,0 +1,5 @@
+[32mINFO    [0m WDM:logger.py:16 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:16 Current google-chrome version is 103.0.5060
+[32mINFO    [0m WDM:logger.py:16 Get LATEST chromedriver version for 103.0.5060 google-chrome
+[32mINFO    [0m WDM:logger.py:16 About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_mac64_m1.zip
+[32mINFO    [0m WDM:logger.py:16 Driver has been saved in cache [/Users/abdullah/.wdm/drivers/chromedriver/mac64_m1/103.0.5060.53]
